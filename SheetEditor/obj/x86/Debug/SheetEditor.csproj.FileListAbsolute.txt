@@ -1,0 +1,14 @@
+E:\Sam\Projects\SheetEditor\SheetEditor\bin\Debug\SheetEditor.exe
+E:\Sam\Projects\SheetEditor\SheetEditor\bin\Debug\SheetEditor.pdb
+E:\Sam\Projects\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.Properties.Resources.resources
+E:\Sam\Projects\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.csproj.GenerateResource.Cache
+E:\Sam\Projects\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.exe
+E:\Sam\Projects\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.pdb
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.exe
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.pdb
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\bin\Debug\SheetEditor.exe
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\bin\Debug\SheetEditor.pdb
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.Form1.resources
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.Properties.Resources.resources
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.csproj.GenerateResource.Cache
+E:\Sam\Projects\C#\SheetEditor\SheetEditor\obj\x86\Debug\SheetEditor.csprojResolveAssemblyReference.cache
